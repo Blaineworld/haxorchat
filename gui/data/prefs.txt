@@ -1,0 +1,3 @@
+[ Preferences ]
+
+Color: ( none / simple / full )

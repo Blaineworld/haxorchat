@@ -1,0 +1,8 @@
+
+      [   HaxorChat   ]      #title
+ the cool way to communicate 
+
+      >  Join a Room  <      #menu
+       Create a Room         
+        Preferences          
+           Quit              
